@@ -1,22 +1,22 @@
-# BUANGIN
+♻️ Buangin – Aplikasi Pengelolaan Sampah Berbasis Flutter
 
-A new Flutter project.
+**Buangin** adalah aplikasi mobile berbasis Flutter yang dirancang untuk membantu pengguna dalam mengelola dan memesan layanan pengangkutan sampah secara efisien dan ramah lingkungan.
 
-## Getting Started
+🔹 **Fitur Utama:**
 
-This project is a starting point for a Flutter application.
+* Antar atau Jemput Sampah
+* Navigasi sederhana dan responsif
+* Tanpa login/registrasi – langsung pakai
+* Desain ringan untuk perangkat low-end
+* Implementasi struktur proyek rapi dengan `screens`, `models`, `widgets`, dan `services`
 
-A few resources to get you started if this is your first Flutter project:
+🛠️ **Teknologi:**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Flutter & Dart
+* Firebase (Firestore) untuk penyimpanan data
+* Responsive UI berbasis Material Design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🎯 **Tujuan:**
+Menyederhanakan proses pembuangan sampah dan mendukung gaya hidup ramah lingkungan dengan pengalaman pengguna yang praktis dan cepat.
 
-## Anggota Kelompok
-- Kadek Dimas Ganes Grahista (5220411066)
-- Andhika Fahar Zulianto (5220411076)
-- Ragil Nur Rasyid (5220411105)
-- Berliandya Hasanuddin (5220411253)
+
